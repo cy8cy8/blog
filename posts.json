@@ -1,0 +1,14 @@
+[
+    {
+        "slug": "welcome-to-my-blog",
+        "title": "Welcome to my Blog",
+        "date": "2026-07-15",
+        "tags": ["important"]
+    },
+    {
+        "slug": "how-to-start-your-tech-career",
+        "title": "How to Start Your Tech Career (In the Age of AI)",
+        "date": "2026-07-16",
+        "tags": ["career", "tech"]
+    }
+]
